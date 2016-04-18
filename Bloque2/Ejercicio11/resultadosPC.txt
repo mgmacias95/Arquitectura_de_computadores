@@ -1,0 +1,32 @@
+Version secuencial con tamaño 400:
+Tiempo: 0.000622356 	 v[0] = 2400 	 v[399] = 2400 
+Version a con tamaño 400:
+Tiempo: 0.000262047 	 v[0] = 2400 	 v[399] = 2400 
+Version b con tamaño 400:
+Tiempo: 0.002568450 	 v[0] = 2400 	 v[399] = 2400 
+Version reduction con tamaño 400:
+Tiempo: 0.000936696 	 v[0] = 2400 	 v[399] = 2400 
+Version secuencial con tamaño 600:
+Tiempo: 0.001223354 	 v[0] = 3600 	 v[599] = 3600 
+Version a con tamaño 600:
+Tiempo: 0.001964308 	 v[0] = 3600 	 v[599] = 3600 
+Version b con tamaño 600:
+Tiempo: 0.000985140 	 v[0] = 3600 	 v[599] = 3600 
+Version reduction con tamaño 600:
+Tiempo: 0.000845663 	 v[0] = 3600 	 v[599] = 3600 
+Version secuencial con tamaño 800:
+Tiempo: 0.004856650 	 v[0] = 4800 	 v[799] = 4800 
+Version a con tamaño 800:
+Tiempo: 0.002437130 	 v[0] = 4800 	 v[799] = 4800 
+Version b con tamaño 800:
+Tiempo: 0.001584115 	 v[0] = 4800 	 v[799] = 4800 
+Version reduction con tamaño 800:
+Tiempo: 0.001439357 	 v[0] = 4800 	 v[799] = 4800 
+Version secuencial con tamaño 1000:
+Tiempo: 0.001710611 	 v[0] = 6000 	 v[999] = 6000 
+Version a con tamaño 1000:
+Tiempo: 0.002474728 	 v[0] = 6000 	 v[999] = 6000 
+Version b con tamaño 1000:
+Tiempo: 0.002393603 	 v[0] = 6000 	 v[999] = 6000 
+Version reduction con tamaño 1000:
+Tiempo: 0.002293928 	 v[0] = 6000 	 v[999] = 6000 
