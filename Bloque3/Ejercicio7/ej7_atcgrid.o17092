@@ -1,0 +1,49 @@
+Id/home/C1estudiante9/bloque3 usuario del trabajo: C1estudiante9
+Id/home/C1estudiante9/bloque3 del trabajo: 17092,atcgrid
+Nombre del trabajo especificado por usuario: ej7_atcgrid
+Nodo que ejecuta qsub: atcgrid
+Directorio en el que se ha ejecutado qsub: /home/C1estudiante9/bloque3
+Cola: ac
+Nodos asignados al trabajo:
+atcgrid2
+atcgrid2
+atcgrid2
+atcgrid2
+atcgrid2
+atcgrid2
+atcgrid2
+atcgrid2
+atcgrid2
+atcgrid2
+atcgrid2
+atcgrid2
+static y chunk por defecto
+Tiempo = 0,005707981	 Primera = 61440	 Ultima=15
+static y chunk 2
+Tiempo = 0,006481320	 Primera = 61440	 Ultima=15
+static y chunk 32
+Tiempo = 0,005762273	 Primera = 61440	 Ultima=15
+static y chunk 64
+Tiempo = 0,004319906	 Primera = 61440	 Ultima=15
+static y chunk 1024
+Tiempo = 0,006335141	 Primera = 61440	 Ultima=15
+dynamic y chunk por defecto
+Tiempo = 0,006523161	 Primera = 61440	 Ultima=15
+dynamic y chunk 2
+Tiempo = 0,002911142	 Primera = 61440	 Ultima=15
+dynamic y chunk 32
+Tiempo = 0,002558213	 Primera = 61440	 Ultima=15
+dynamic y chunk 64
+Tiempo = 0,002688871	 Primera = 61440	 Ultima=15
+dynamic y chunk 1024
+Tiempo = 0,013714543	 Primera = 61440	 Ultima=15
+guided y chunk por defecto
+Tiempo = 0,003408467	 Primera = 61440	 Ultima=15
+guided y chunk 2
+Tiempo = 0,004651800	 Primera = 61440	 Ultima=15
+guided y chunk 32
+Tiempo = 0,004715245	 Primera = 61440	 Ultima=15
+guided y chunk 64
+Tiempo = 0,003270651	 Primera = 61440	 Ultima=15
+guided y chunk 1024
+Tiempo = 0,009985434	 Primera = 61440	 Ultima=15

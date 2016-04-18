@@ -1,0 +1,63 @@
+Id/home/C1estudiante9/bloque3 usuario del trabajo: C1estudiante9
+Id/home/C1estudiante9/bloque3 del trabajo: 17331,atcgrid
+Nombre del trabajo especificado por usuario: ej_10_atcgrid
+Nodo que ejecuta qsub: atcgrid
+Directorio en el que se ha ejecutado qsub: /home/C1estudiante9/bloque3
+Cola: ac
+Nodos asignados al trabajo:
+atcgrid2
+atcgrid2
+atcgrid2
+atcgrid2
+atcgrid2
+atcgrid2
+atcgrid2
+atcgrid2
+atcgrid2
+atcgrid2
+atcgrid2
+atcgrid2
+Tiempo secuencial con 100
+Tiempo = 0,001745939	 Primera = 200	 Ultima=200
+Tiempo con dos threads con 100
+Tiempo = 0,001545519	 Primera = 200	 Ultima=200
+Tiempo con cuatro threads con 100
+Tiempo = 0,000885940	 Primera = 200	 Ultima=200
+Tiempo con ocho threads con 100
+Tiempo = 0,000605452	 Primera = 200	 Ultima=200
+Tiempo con doce threads con 100
+Tiempo = 0,000269204	 Primera = 200	 Ultima=200
+--------------------------------------------------
+Tiempo secuencial con 500
+Tiempo = 0,355614865	 Primera = 1000	 Ultima=1000
+Tiempo con dos threads con 500
+Tiempo = 0,199652872	 Primera = 1000	 Ultima=1000
+Tiempo con cuatro threads con 500
+Tiempo = 0,103354527	 Primera = 1000	 Ultima=1000
+Tiempo con ocho threads con 500
+Tiempo = 0,051759665	 Primera = 1000	 Ultima=1000
+Tiempo con doce threads con 500
+Tiempo = 0,033990300	 Primera = 1000	 Ultima=1000
+--------------------------------------------------
+Tiempo secuencial con 1000
+Tiempo = 9,536438890	 Primera = 2000	 Ultima=2000
+Tiempo con dos threads con 1000
+Tiempo = 4,925662981	 Primera = 2000	 Ultima=2000
+Tiempo con cuatro threads con 1000
+Tiempo = 2,682087484	 Primera = 2000	 Ultima=2000
+Tiempo con ocho threads con 1000
+Tiempo = 1,364372716	 Primera = 2000	 Ultima=2000
+Tiempo con doce threads con 1000
+Tiempo = 0,910306485	 Primera = 2000	 Ultima=2000
+--------------------------------------------------
+Tiempo secuencial con 1500
+Tiempo = 34,002600375	 Primera = 3000	 Ultima=3000
+Tiempo con dos threads con 1500
+Tiempo = 17,389563134	 Primera = 3000	 Ultima=3000
+Tiempo con cuatro threads con 1500
+Tiempo = 9,036692597	 Primera = 3000	 Ultima=3000
+Tiempo con ocho threads con 1500
+Tiempo = 4,722099363	 Primera = 3000	 Ultima=3000
+Tiempo con doce threads con 1500
+Tiempo = 3,151529519	 Primera = 3000	 Ultima=3000
+--------------------------------------------------
