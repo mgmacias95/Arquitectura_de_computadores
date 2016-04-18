@@ -1,0 +1,17 @@
+Id. usuario del trabajo:  PBS_O_LOGNAME
+Id. del trabajo: 1057.atcgrid
+Nombre del trabajo especificado por usuario: ejercicio3
+Nodo que ejecuta qsub: atcgrid
+Cola: ac
+Nodos asignados al trabajo:
+atcgrid1
+Nº de threads inicial: 12
+/home/C1estudiante9/hello
+
+Para 12 threads:
+
+Para 6 threads:
+
+Para 3 threads:
+
+Para 1 threads:

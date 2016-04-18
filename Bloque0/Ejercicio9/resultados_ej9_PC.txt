@@ -1,0 +1,83 @@
+Vectores locales con tamaño 65536:
+Tiempo: 0.000202943	 Tamaño en bytes del vector: 524288
+
+Vectores globales con tamaño 65536:
+Tiempo: 0.000401601	 Tamaño en bytes del vector: 524288
+
+Vectores dinamicos con tamaño 65536:
+Tiempo: 0.000210011	 Tamaño en bytes del vector: 524288
+
+Vectores locales con tamaño 131072:
+Tiempo: 0.000570058	 Tamaño en bytes del vector: 1048576
+
+Vectores globales con tamaño 131072:
+Tiempo: 0.000616890	 Tamaño en bytes del vector: 1048576
+
+Vectores dinamicos con tamaño 131072:
+Tiempo: 0.000755419	 Tamaño en bytes del vector: 1048576
+
+Vectores locales con tamaño 262144:
+Tiempo: 0.002393286	 Tamaño en bytes del vector: 2097152
+
+Vectores globales con tamaño 262144:
+Tiempo: 0.001527466	 Tamaño en bytes del vector: 2097152
+
+Vectores dinamicos con tamaño 262144:
+Tiempo: 0.001193045	 Tamaño en bytes del vector: 2097152
+
+Vectores locales con tamaño 524288:
+Vectores globales con tamaño 524288:
+Tiempo: 0.001974425	 Tamaño en bytes del vector: 4194304
+
+Vectores dinamicos con tamaño 524288:
+Tiempo: 0.002453608	 Tamaño en bytes del vector: 4194304
+
+Vectores locales con tamaño 1048576:
+Vectores globales con tamaño 1048576:
+Tiempo: 0.005565675	 Tamaño en bytes del vector: 8388608
+
+Vectores dinamicos con tamaño 1048576:
+Tiempo: 0.004369545	 Tamaño en bytes del vector: 8388608
+
+Vectores locales con tamaño 2097152:
+Vectores globales con tamaño 2097152:
+Tiempo: 0.015999572	 Tamaño en bytes del vector: 16777216
+
+Vectores dinamicos con tamaño 2097152:
+Tiempo: 0.011322151	 Tamaño en bytes del vector: 16777216
+
+Vectores locales con tamaño 4194304:
+Vectores globales con tamaño 4194304:
+Tiempo: 0.028680028	 Tamaño en bytes del vector: 33554432
+
+Vectores dinamicos con tamaño 4194304:
+Tiempo: 0.015496210	 Tamaño en bytes del vector: 33554432
+
+Vectores locales con tamaño 8388608:
+Vectores globales con tamaño 8388608:
+Tiempo: 0.035551962	 Tamaño en bytes del vector: 67108864
+
+Vectores dinamicos con tamaño 8388608:
+Tiempo: 0.040378133	 Tamaño en bytes del vector: 67108864
+
+Vectores locales con tamaño 16777216:
+Vectores globales con tamaño 16777216:
+Tiempo: 0.067111045	 Tamaño en bytes del vector: 134217728
+
+Vectores dinamicos con tamaño 16777216:
+Tiempo: 0.075788804	 Tamaño en bytes del vector: 134217728
+
+Vectores locales con tamaño 33554432:
+Vectores globales con tamaño 33554432:
+Tiempo: 0.143934075	 Tamaño en bytes del vector: 268435456
+
+Vectores dinamicos con tamaño 33554432:
+Tiempo: 0.133089440	 Tamaño en bytes del vector: 268435456
+
+Vectores locales con tamaño 67108864:
+Vectores globales con tamaño 67108864:
+Tiempo: 0.142932260	 Tamaño en bytes del vector: 268435456
+
+Vectores dinamicos con tamaño 67108864:
+Tiempo: 0.304047674	 Tamaño en bytes del vector: 536870912
+

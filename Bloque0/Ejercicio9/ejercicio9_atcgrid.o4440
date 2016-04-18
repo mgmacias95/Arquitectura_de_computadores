@@ -1,0 +1,91 @@
+Id. usuario del trabajo: C1estudiante9
+Id. del trabajo: 4440.atcgrid
+Nombre del trabajo especificado por usuario: ejercicio9_atcgrid
+Nodo que ejecuta qsub: atcgrid
+Directorio en el que se ha ejecutado qsub: /home/C1estudiante9/hello
+Cola: ac
+Nodos asignados al trabajo:
+atcgrid1
+Vectores locales con tamaño 65536:
+Tiempo: 0.000381452	 Tamaño en bytes del vector: 524288
+
+Vectores globales con tamaño 65536:
+Tiempo: 0.000287485	 Tamaño en bytes del vector: 524288
+
+Vectores dinamicos con tamaño 65536:
+Tiempo: 0.000285507	 Tamaño en bytes del vector: 524288
+
+Vectores locales con tamaño 131072:
+Tiempo: 0.000646631	 Tamaño en bytes del vector: 1048576
+
+Vectores globales con tamaño 131072:
+Tiempo: 0.000570881	 Tamaño en bytes del vector: 1048576
+
+Vectores dinamicos con tamaño 131072:
+Tiempo: 0.000569309	 Tamaño en bytes del vector: 1048576
+
+Vectores locales con tamaño 262144:
+Tiempo: 0.001115528	 Tamaño en bytes del vector: 2097152
+
+Vectores globales con tamaño 262144:
+Tiempo: 0.001015508	 Tamaño en bytes del vector: 2097152
+
+Vectores dinamicos con tamaño 262144:
+Tiempo: 0.000970508	 Tamaño en bytes del vector: 2097152
+
+Vectores locales con tamaño 524288:
+Vectores globales con tamaño 524288:
+Tiempo: 0.002652562	 Tamaño en bytes del vector: 4194304
+
+Vectores dinamicos con tamaño 524288:
+Tiempo: 0.003065757	 Tamaño en bytes del vector: 4194304
+
+Vectores locales con tamaño 1048576:
+Vectores globales con tamaño 1048576:
+Tiempo: 0.005796258	 Tamaño en bytes del vector: 8388608
+
+Vectores dinamicos con tamaño 1048576:
+Tiempo: 0.006422912	 Tamaño en bytes del vector: 8388608
+
+Vectores locales con tamaño 2097152:
+Vectores globales con tamaño 2097152:
+Tiempo: 0.010168135	 Tamaño en bytes del vector: 16777216
+
+Vectores dinamicos con tamaño 2097152:
+Tiempo: 0.010196820	 Tamaño en bytes del vector: 16777216
+
+Vectores locales con tamaño 4194304:
+Vectores globales con tamaño 4194304:
+Tiempo: 0.020127207	 Tamaño en bytes del vector: 33554432
+
+Vectores dinamicos con tamaño 4194304:
+Tiempo: 0.020270352	 Tamaño en bytes del vector: 33554432
+
+Vectores locales con tamaño 8388608:
+Vectores globales con tamaño 8388608:
+Tiempo: 0.040101783	 Tamaño en bytes del vector: 67108864
+
+Vectores dinamicos con tamaño 8388608:
+Tiempo: 0.040045641	 Tamaño en bytes del vector: 67108864
+
+Vectores locales con tamaño 16777216:
+Vectores globales con tamaño 16777216:
+Tiempo: 0.079602547	 Tamaño en bytes del vector: 134217728
+
+Vectores dinamicos con tamaño 16777216:
+Tiempo: 0.080178626	 Tamaño en bytes del vector: 134217728
+
+Vectores locales con tamaño 33554432:
+Vectores globales con tamaño 33554432:
+Tiempo: 0.160743747	 Tamaño en bytes del vector: 268435456
+
+Vectores dinamicos con tamaño 33554432:
+Tiempo: 0.161486891	 Tamaño en bytes del vector: 268435456
+
+Vectores locales con tamaño 67108864:
+Vectores globales con tamaño 67108864:
+Tiempo: 0.159865612	 Tamaño en bytes del vector: 268435456
+
+Vectores dinamicos con tamaño 67108864:
+Tiempo: 0.322627262	 Tamaño en bytes del vector: 536870912
+
